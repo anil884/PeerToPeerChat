@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p2pchat</string>
+
+    <string name="hello_world"> P2P Chat Room</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
